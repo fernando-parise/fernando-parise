@@ -30,8 +30,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoparise&show_icons=true&theme=dracula" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoparise&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernando-parise&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-parise&layout=compact&theme=dracula"/>
 </p>
 
 ## 🚀 Alguns projetos
