@@ -10,7 +10,7 @@
   Apaixonado por tecnologia e inovação
 </p>
 
-- 🔭 Atualmente trabalhando em [Seu Projeto Principal](https://fernando-parise.github.io/Zingen/)
+- 🔭 Atualmente trabalhando em [Zingen](https://fernando-parise.github.io/Zingen/)
 - 🌱 Aprendendo: React, Next.js, IA aplicada, HTML, CSS
 - 💬 Me pergunte sobre: Delphi, Firebird, React, ERP
 <!--- 📫 Contato: fernandoparise@email.com-
