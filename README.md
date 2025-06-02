@@ -36,7 +36,7 @@
 
 ## 🚀 Alguns projetos
 
-- [Projeto Portfólio](https://fernando-parise.github.io/portfolio-dev/) — TravelGram
+- [Projeto Portfólio](https://fernando-parise.github.io/portfolio-dev/) — Portfólio
 - [Projeto TravelGram](https://github.com/fernandoparise/projeto-x](https://fernando-parise.github.io/projeto-travel-gram/)) — TravelGram
 - [Projeto TechNews](https://github.com/fernandoparise/portfolio-dev](https://fernando-parise.github.io/portal-de-noticias/)) — Portal de Notícias
 - [Projeto Zingen](https://fernando-parise.github.io/Zingen/) — LandingPage (Em Manutenção)
